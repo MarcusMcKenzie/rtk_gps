@@ -1,4 +1,5 @@
 # rtk_gps
+A RTK GPS was used to collect and analyze the measurement data from the sensor. The data was collected by walking through various parts of the city. The minimal effect of obsructing buildings was noted and compared to the data collected from traditional GPS.  
 
 ## Required
 * RTK GPS
