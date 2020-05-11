@@ -4,7 +4,7 @@
 * RTK GPS
 * GPS Antennas
 * Reach Emlid boards
-
+* Python 3
 
 ## Setup
 
