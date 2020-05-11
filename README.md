@@ -22,7 +22,7 @@
 ## Results
 
 #### 2D plot of straight line path:
-<img src="output/straight_line.png" alt="final" width="400"/>
+<img src="output/straight_path.png" alt="final" width="400"/>
 
 #### 2D plot of parking garage path:
 <img src="output/parking_garage.png" alt="final" width="400"/>
