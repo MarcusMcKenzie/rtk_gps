@@ -9,7 +9,6 @@ A RTK GPS was used to collect and analyze the measurement data from the sensor. 
 
 ## Setup
 
-
 #### RTK Rover Setup:
 1. Pick a rtk as rover and connect it to your laptop through USB port. Now, connect the radio and reach through UART. A red light will turn on when your rover is still initializing. If the radio boots up correctly, a blinking green light will take  the  place,  indicating  that  it’s  searching  for  its  paired  radio. 
 
